@@ -2,15 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://examplesite.com/archive/</loc>
+    <loc>https://lecodingdev.id/archive/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://examplesite.com/categories/</loc>
+    <loc>https://lecodingdev.id/categories/</loc>
   </url><url>
-    <loc>https://examplesite.com/</loc>
+    <loc>https://lecodingdev.id/</loc>
   </url><url>
-    <loc>https://examplesite.com/search/</loc>
+    <loc>https://lecodingdev.id/search/</loc>
   </url><url>
-    <loc>https://examplesite.com/tags/</loc>
+    <loc>https://lecodingdev.id/tags/</loc>
   </url>
 </urlset>
